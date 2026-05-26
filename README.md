@@ -85,7 +85,7 @@ Library management web app — loans, dashboards, secure authentication. Clean, 
 <img src="https://img.shields.io/badge/─────────────────────────────────-0d1117?style=for-the-badge" />
 
 **`[04]`** &nbsp; ![icon](https://img.shields.io/badge/Master_Money-2e280d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYxNzYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iMTIiIHkxPSIxIiB4Mj0iMTIiIHkyPSIyMyIvPjxwYXRoIGQ9Ik0xNyA1SDkuNWEzLjUgMy41IDAgMCAwIDAgN2g1YTMuNSAzLjUgMCAwIDEgMCA3SDYiLz48L3N2Zz4=&logoColor=fff176&labelColor=2e280d&color=2e280d)
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2e280d?style=flat-square&logo=vercel&logoColor=fff176)](https://master-money.alwaysdata.net/)
 Budget app with multi-scenario projections, **Chart.js** visualizations, and a PDO-secured backend.
 
 ![PHP](https://img.shields.io/badge/PHP-16102e?style=flat-square&logo=php&logoColor=777BB4)
